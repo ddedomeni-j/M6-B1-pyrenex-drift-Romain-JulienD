@@ -1,0 +1,10 @@
+# M6-B1 — analyse de dérive (Python 3.11+)
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.1     # match modèle pyrenex_risk_v2
+matplotlib==3.9.2
+joblib==1.4.2
+jupyter==1.1.1
+ipykernel==6.29.5
+pytest==8.3.2
