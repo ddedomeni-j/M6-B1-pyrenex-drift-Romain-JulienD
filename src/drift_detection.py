@@ -130,5 +130,5 @@ def drift_report(
             "Verdict": verdict,
             "Commentaire": comment,
         })
-
+        
     return pd.DataFrame(rows)
